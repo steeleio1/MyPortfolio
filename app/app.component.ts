@@ -9,13 +9,14 @@ import { WelcomeComponent } from './home/welcome.component';
     selector: 'mp-app',
     template: `
         <div>
+        
+        <div> testing app comp </div>
             <nav class="navbar navbar-default">
                 <div class="container-fluid">
                     <a class="navbar-brand" [routerLink] = "['Welcome']">
                     <img src="app/assets/images/logo.png" class="img-responsive"></a>
                     <ul class="nav navbar-nav navbar-right">
                         <li><a [routerLink] = "['Welcome']">Home</a></li>
-                        <li><a [routerLink] = "['Contacts']">Contact List</a></li>
                     </ul>
                  </div>
             </nav>
@@ -37,5 +38,5 @@ import { WelcomeComponent } from './home/welcome.component';
 ])
 
 export class AppComponent {
-    pageTitle:string = 'Premier Logic';
+    pageTitle:string = 'My Stuff';
 }
