@@ -2,7 +2,7 @@
 
 
 ### Live on the webisphere
-[tiy-jasonsteele-MyPortfolio.surge.sh]()
+[tiy-jasonsteele-my-portfolio.surge.sh]()
 
 ##Built With
 * Angular 2
