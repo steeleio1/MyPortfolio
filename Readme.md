@@ -2,7 +2,7 @@
 
 
 ### Live on the webisphere
-[live url]("http://tiy-jasonsteele-my-portfolio.surge.sh");
+[live in surge](http://tiy-jasonsteele-my-portfolio.surge.sh)
 
 ##Built With
 * Angular 2
